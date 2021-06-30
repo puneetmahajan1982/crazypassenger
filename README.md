@@ -1,5 +1,4 @@
 # crazypassenger
-crazy passenger
 
 To run the app, open/build the code in Visual Studio. 
 
